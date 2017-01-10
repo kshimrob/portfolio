@@ -1,0 +1,21 @@
+body {
+	background-color: #434f6a;
+	font: normal 16px 'Raleway', Arial, sans-serif;
+	color: white;
+	text-align: center;
+	padding: 100px 0;
+}
+
+header {
+	max-width: 500px;
+	margin: 0 auto;
+}
+img {
+	border-radius: 100%;
+	max-width: 300px;
+}
+
+h1 {
+	font-size: 5rem;
+	font-family: 'Bungee Shade', Arial, sans-serif;
+}
